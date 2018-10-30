@@ -1,0 +1,192 @@
+#game_background {
+    background-image: url(produktion/spil_baggrund.svg);
+    background-size: cover;
+    width: 90vw;
+    height: 170vw;
+    margin: auto;
+}
+
+#bamse {
+    background-image: url(produktion/bamse.svg);
+    background-size: 100%;
+    width: 18vw;
+    height: 33vw;
+    position: absolute;
+    left: 41vw;
+    top: 108vw;
+    z-index: 2;
+}
+
+
+#liv_blaa {
+    background-image: url(produktion/liv_blaa.svg);
+    background-size: 100%;
+    width: 14vw;
+    height: 12vw;
+    position: absolute;
+    left: 3vw;
+    top: 160vw;
+    z-index: 2;
+}
+
+#liv_blaa_to {
+    background-image: url(produktion/liv_blaa.svg);
+    background-size: 100%;
+    width: 14vw;
+    height: 12vw;
+    position: absolute;
+    left: 14vw;
+    top: 160vw;
+    z-index: 2;
+}
+
+#liv_graa {
+    background-image: url(produktion/liv_graa.svg);
+    background-size: 100%;
+    width: 14vw;
+    height: 12vw;
+    position: absolute;
+    left: 25vw;
+    top: 160vw;
+    z-index: 2;
+}
+
+#point_bubble {
+    background-image: url(produktion/point_bubble.svg);
+    background-size: 100%;
+    width: 20vw;
+    height: 18vw;
+    position: absolute;
+    left: 73vw;
+    top: 148vw;
+    z-index: 2;
+}
+
+
+#point {
+    background-image: url(produktion/point.svg);
+    background-size: 100%;
+    width: 8vw;
+    height: 8vw;
+    position: absolute;
+    left: 79vw;
+    top: 153vw;
+    z-index: 3;
+}
+
+#raket {
+    background-image: url(produktion/raket.svg);
+    background-size: 100%;
+    width: 15vw;
+    height: 20vw;
+    position: absolute;
+    left: 15vw;
+    top: 25vw;
+    z-index: 3;
+}
+
+#raket_to {
+    background-image: url(produktion/raket_to.svg);
+    background-size: 100%;
+    width: 15vw;
+    height: 20vw;
+    position: absolute;
+    left: 70vw;
+    top: 65vw;
+    z-index: 3;
+}
+
+#tid {
+    background-image: url(produktion/tid.svg);
+    background-size: 100%;
+    width: 15vw;
+    height: 48vw;
+    position: absolute;
+    left: 76vw;
+    top: 5vw;
+    z-index: 3;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*HUSKER
+
+.rum {
+    background-image: url("grafik/room.jpg");
+    background-size: cover;
+    width: 80vw;
+    height: 45vw;
+    margin: auto;
+    position: relative;
+    overflow: hidden;
+}
+
+.bord {
+    background-image: url("grafik/bord.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 28vw;
+    height: 23vw;
+    position: absolute;
+    left: 45vw;
+    top: 24vw;
+    z-index: 2;
+}
+
+.stol {
+    background-image: url("grafik/chair.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 16vw;
+    height: 24.6vw;
+    position: absolute;
+    left: 60vw;
+    top: 20vw;
+    z-index: 1;
+}
+
+.skaal {
+    background-image: url("grafik/skaal.png");
+    background-size: 100%;
+    width: 8vw;
+    height: 3.1vw;
+    position: absolute;
+    left: 60vw;
+    top: 24vw;
+    z-index: 3;
+}
+
+.kvinde {
+    background-image: url("grafik/kvinde.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 16vw;
+    height: 37.8vw;
+    position: absolute;
+    left: 34vw;
+    top: 8vw;
+    z-index: 4;
+}
+
+.mand {
+    background-image: url("grafik/mand.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 16vw;
+    height: 38.6vw;
+    position: absolute;
+    left: 40vw;
+    top: 5vw;
+    z-index: 1;
+}
+
+
+*/
